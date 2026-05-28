@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+pydantic-settings==2.5.2
+SQLAlchemy==2.0.35
+aiosqlite==0.20.0
+greenlet==3.1.1
+ultralytics==8.3.10
+opencv-python==4.10.0.84
+numpy==2.1.1
